@@ -2,7 +2,7 @@
 
 This project leverages the capabilities of Streamlit, PyPDF2, and Google Generative AI to create an interactive application that allows users to upload multiple PDF files, process the text, and ask questions based on the content.
 
-Download all the necessary packages from the reuirements.txt file
+Download all the necessary packages from the reuirements.txt file                                                        
 -- pip install -r requirements.txt                                                                                       
 -- streamlit run app.py
 
